@@ -1,17 +1,17 @@
 Best practices:
-- Consider all of the available data:
+- **Consider all of the available data**:
    - determine what data is going to be useful for your analysis
    - there will be (extra) data which might not be related, but it's critical to consider - so that your analysis reflects the truth and not just your expectations. 
-- Identify surrounding factors:
+- **Identify surrounding factors**:
   - context is the key for you and your stakeholders to understand the final conclusions of any analysis
   - consider surrounding factors that could influence the insights you're gaining
-- Self-reported data:
+- **Self-reported data**:
   - participants provide information about themselves
   - this method can help avoid observer biases
   - provides important context to your conclusions
-- Oversampling:
+- **Oversampling**:
   - sometimes can help represent groups that otherwise wouldn't be represented fairly
   - it is a process of increasing the sample size of nondominant groups in a population
-- Thinking about fairness from beginning to end:
+- **Thinking about fairness from beginning to end**:
   - consider fairness from the earliest stages of the project to when you act on the data insights
   - data collection, cleaning, processing, and analysis are all performed with fairness in mind
