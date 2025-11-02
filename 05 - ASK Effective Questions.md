@@ -32,3 +32,16 @@ Metric goal: measurable goal set by a company and evaluated using metrics
 Small data ( specific / short time-period )
 Big data ( large and less specific / long time-period )
 
+Error fixes in Spreadsheet:
+- (#DIV/0!) - a formula is trying to divide a value in a cell by 0 or by an empty cell
+  =IFERROR(B4/A4, "Not applicable")
+- (#ERROR!) - a formula can't be interpreted as input - also known as a parsing error
+- (#N/A) - data in a formula can't be found by the spreadsheet
+- (#NAME?) - a formula or function name isn't understood
+- (#NUM!) - a formula or function calculation can't be performed as specified
+- (#VALUE!) - a general error that could indicate a problem with a formula or referenced cells
+- (#REF!) - a formula is referencing a cell that is no longer valid or has been deleted
+
+Statement of work - a document that clearly identifies the products and services a vendor or contractor will provide to an organization. it includes objectives, guidelines, deliverables, schedule, and costs.
+Scope of work - project-based and sets the expectations and boundaries of a project. it may be included in a statement of work to help define project outcomes. 
+
