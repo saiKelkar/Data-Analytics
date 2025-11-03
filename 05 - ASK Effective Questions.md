@@ -45,3 +45,6 @@ Error fixes in Spreadsheet:
 Statement of work - a document that clearly identifies the products and services a vendor or contractor will provide to an organization. it includes objectives, guidelines, deliverables, schedule, and costs.
 Scope of work - project-based and sets the expectations and boundaries of a project. it may be included in a statement of work to help define project outcomes. 
 
+Stakeholders - people that have invested time, interest, and resources into the projects you'll be working on as a data analyst.
+Turnover rate - the rate at which employees leave a company.
+
