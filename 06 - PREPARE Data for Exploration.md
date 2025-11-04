@@ -59,5 +59,16 @@ Foreign key
 - refers to the field in a table that's the primary key of another table
 - more than one foreign key is allowed to exist in a table
 
+Metadata is used in database management to help data analysts interpret the contents of the data within the database (it is stored in a single, central location, and gives the company standardized information about all of its data)
 
+3 common types of metadata:
+- descriptive (describes a piece of data and can be used to identify it at a later point in time)
+- structural (indicates how a piece of data is organized and whether it is part of one, or more than one, data collection)
+- administrative (indicates the technical source of a digital asset)
+
+Benefits of metadata:
+- reliability
+- consistency
+
+Data governance - a process to ensure the formal management of a company's data assets.
 
