@@ -72,3 +72,4 @@ Spreadsheet tools used for data-cleaning:
 - Concatenate
 
 Data mapping - process of matching fields from one data source to another
+
