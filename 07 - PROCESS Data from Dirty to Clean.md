@@ -54,3 +54,21 @@ Lower limit = 0.7 - 0.04 = 0.66
 Upper limit = 0.7 + 0.04 = 0.74
 
 so true population proportion likely lies between 66% and 74%
+
+
+Spreadsheet tools used for data-cleaning:
+- Conditional formatting (tool that changes how cells appear when values meet specific conditions)
+  =COUNTIF(range, "value")
+  =LEN(range)
+  =LEFT(range, number of characters) -- to divide a string into a substring
+  =RIGHT(range, number of characters) -- to divide a string into a substring
+  =MID(range, reference starting point, number of middle characters)
+  =CONCATENATE(item 1, item 2)
+  =TRIM(range)
+  =VLOOKUP(data to look up, 'where to look'! Range, column, false)
+- Remove duplicates ()
+- Date consistency
+- Split
+- Concatenate
+
+Data mapping - process of matching fields from one data source to another
