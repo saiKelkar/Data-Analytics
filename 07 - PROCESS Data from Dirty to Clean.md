@@ -107,3 +107,12 @@ ORDER BY -- arrange by ascending or descending order
 CONCAT() -- adding strings together to create new text strings that can be used as unique keys
 COALESCE() -- can be used to return non-null values in a list
 
+Verify and Report on Cleaning Results:
+Changelog -- a file containing a chronologically ordered list of modifications made to a project. 
+
+Verification of cleaning:
+- no nulls are present
+- focus on big picture (do the numbers make sense)
+  consider the business problem
+  consider the goal of the project
+  consider the data (where it came from, and cleaning processes)
