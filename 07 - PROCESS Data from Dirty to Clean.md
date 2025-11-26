@@ -73,3 +73,37 @@ Spreadsheet tools used for data-cleaning:
 
 Data mapping - process of matching fields from one data source to another
 
+Data cleaning with SQL (Structured Query Language):
+
+```
+SELECT 
+	name,
+	city
+FROM 
+customer_data.customer_address
+```
+
+```
+INSERT INTO '...'
+	(customer_id, name, address, city, state, zipcode, country)
+VALUES
+	(2654, 'Rachel DeSantos', '333 SQL Road', 'Jackson', 'MI', 4902, 'US')
+```
+
+```
+UPDATE '...'
+SET address = '...some address...'
+WHERE customer_id = 1234
+```
+
+DISTINCT keyword - where data isn't repeated
+LENGTH or LEN -- length of string
+SUBSTR() -- substring
+TRIM()
+
+CAST() -- can convert anything from one data type to another
+ORDER BY -- arrange by ascending or descending order
+
+CONCAT() -- adding strings together to create new text strings that can be used as unique keys
+COALESCE() -- can be used to return non-null values in a list
+
