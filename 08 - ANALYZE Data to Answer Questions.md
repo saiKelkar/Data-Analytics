@@ -5,3 +5,4 @@ Analysis - process used to make sense of the data collected
 - get input from others
 - transform data
 
+ 
